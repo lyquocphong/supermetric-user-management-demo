@@ -1,0 +1,21 @@
+{
+    "name": "phongly/user-management",
+    "description": "This is demo for user management system",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phongly\\UserManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ly Quoc  Phong",
+            "email": "lyquocphong@gmail.com"
+        }
+    ],
+    "require": {}
+}
